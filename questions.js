@@ -4,7 +4,7 @@ window.QUIZ_QUESTIONS = [
   {
     id: 1,
     prompt: "Which of these is a JavaScript primitive type?",
-    choices: ["Array", "String", "Date", "RegExp"],
+    choices: ["five", "String", "Date", "RegExp"],
     answerIndex: 1,
     tweetUrl: "x.com/altoidsrevenge/status/2019931856259436994"
   },
