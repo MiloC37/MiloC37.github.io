@@ -6,7 +6,7 @@ window.QUIZ_QUESTIONS = [
     prompt: "Which of these is a JavaScript primitive type?",
     choices: ["Array", "String", "Date", "RegExp"],
     answerIndex: 1,
-    tweetUrl: "<blockquote class="twitter-tweet"><p lang="en" dir="ltr">they are actively taking down videos of jd vance getting booed i don’t wanna hear yall say shit about chinese or north korean censorship ever again 😭😭😭 <a href="https://t.co/B4WZYKT6Eg">https://t.co/B4WZYKT6Eg</a></p>&mdash; dre 🇵🇸 (@altoidsrevenge) <a href="https://twitter.com/altoidsrevenge/status/2019931856259436994?ref_src=twsrc%5Etfw">February 7, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>"
+    tweetUrl: "https://x.com/altoidsrevenge/status/2019931856259436994?ref_src=twsrc%5Etfw"
   },
   {
     id: 2,
