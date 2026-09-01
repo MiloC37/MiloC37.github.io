@@ -1,0 +1,3842 @@
+[
+  {
+    "borough": "Manhattan",
+    "residential_units": 5,
+    "predicted_price_per_unit": 252442.0389,
+    "p25_price_per_unit": 195101.4918,
+    "p75_price_per_unit": 391413.3292,
+    "n_comparables": 13
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 6,
+    "predicted_price_per_unit": 233054.1416,
+    "p25_price_per_unit": 180117.4277,
+    "p75_price_per_unit": 361352.2449,
+    "n_comparables": 31
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 7,
+    "predicted_price_per_unit": 217828.2935,
+    "p25_price_per_unit": 168350.0308,
+    "p75_price_per_unit": 337744.4499,
+    "n_comparables": 32
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 8,
+    "predicted_price_per_unit": 205445.4978,
+    "p25_price_per_unit": 158779.9056,
+    "p75_price_per_unit": 318544.8296,
+    "n_comparables": 39
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 9,
+    "predicted_price_per_unit": 195108.7123,
+    "p25_price_per_unit": 150791.0529,
+    "p75_price_per_unit": 302517.564,
+    "n_comparables": 45
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 10,
+    "predicted_price_per_unit": 186303.6313,
+    "p25_price_per_unit": 143985.988,
+    "p75_price_per_unit": 288865.2179,
+    "n_comparables": 44
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 11,
+    "predicted_price_per_unit": 178681.2803,
+    "p25_price_per_unit": 138095.0038,
+    "p75_price_per_unit": 277046.7038,
+    "n_comparables": 49
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 12,
+    "predicted_price_per_unit": 171995.2551,
+    "p25_price_per_unit": 132927.6652,
+    "p75_price_per_unit": 266679.9701,
+    "n_comparables": 32
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 13,
+    "predicted_price_per_unit": 166065.8606,
+    "p25_price_per_unit": 128345.0937,
+    "p75_price_per_unit": 257486.3982,
+    "n_comparables": 36
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 14,
+    "predicted_price_per_unit": 160758.4944,
+    "p25_price_per_unit": 124243.2607,
+    "p75_price_per_unit": 249257.2859,
+    "n_comparables": 27
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 15,
+    "predicted_price_per_unit": 155970.0306,
+    "p25_price_per_unit": 120542.465,
+    "p75_price_per_unit": 241832.736,
+    "n_comparables": 23
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 16,
+    "predicted_price_per_unit": 151619.9221,
+    "p25_price_per_unit": 117180.455,
+    "p75_price_per_unit": 235087.8592,
+    "n_comparables": 39
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 17,
+    "predicted_price_per_unit": 147644.1998,
+    "p25_price_per_unit": 114107.7919,
+    "p75_price_per_unit": 228923.4711,
+    "n_comparables": 36
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 18,
+    "predicted_price_per_unit": 143991.3168,
+    "p25_price_per_unit": 111284.6372,
+    "p75_price_per_unit": 223259.6478,
+    "n_comparables": 39
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 19,
+    "predicted_price_per_unit": 140619.2004,
+    "p25_price_per_unit": 108678.4748,
+    "p75_price_per_unit": 218031.1552,
+    "n_comparables": 36
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 20,
+    "predicted_price_per_unit": 137493.118,
+    "p25_price_per_unit": 106262.4614,
+    "p75_price_per_unit": 213184.1403,
+    "n_comparables": 45
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 21,
+    "predicted_price_per_unit": 134584.104,
+    "p25_price_per_unit": 104014.2108,
+    "p75_price_per_unit": 208673.6917,
+    "n_comparables": 50
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 22,
+    "predicted_price_per_unit": 131867.7805,
+    "p25_price_per_unit": 101914.8823,
+    "p75_price_per_unit": 204462.0111,
+    "n_comparables": 47
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 23,
+    "predicted_price_per_unit": 129323.4603,
+    "p25_price_per_unit": 99948.4877,
+    "p75_price_per_unit": 200517.0231,
+    "n_comparables": 49
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 24,
+    "predicted_price_per_unit": 126933.4566,
+    "p25_price_per_unit": 98101.3576,
+    "p75_price_per_unit": 196811.3039,
+    "n_comparables": 45
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 25,
+    "predicted_price_per_unit": 124682.5432,
+    "p25_price_per_unit": 96361.7244,
+    "p75_price_per_unit": 193321.2453,
+    "n_comparables": 44
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 26,
+    "predicted_price_per_unit": 122557.5304,
+    "p25_price_per_unit": 94719.3942,
+    "p75_price_per_unit": 190026.3966,
+    "n_comparables": 46
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 27,
+    "predicted_price_per_unit": 120546.9262,
+    "p25_price_per_unit": 93165.4856,
+    "p75_price_per_unit": 186908.9393,
+    "n_comparables": 33
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 28,
+    "predicted_price_per_unit": 118640.6646,
+    "p25_price_per_unit": 91692.2187,
+    "p75_price_per_unit": 183953.2659,
+    "n_comparables": 31
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 29,
+    "predicted_price_per_unit": 116829.8848,
+    "p25_price_per_unit": 90292.7456,
+    "p75_price_per_unit": 181145.6379,
+    "n_comparables": 28
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 30,
+    "predicted_price_per_unit": 115106.7517,
+    "p25_price_per_unit": 88961.0108,
+    "p75_price_per_unit": 178473.9066,
+    "n_comparables": 28
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 31,
+    "predicted_price_per_unit": 113464.3071,
+    "p25_price_per_unit": 87691.6367,
+    "p75_price_per_unit": 175927.2836,
+    "n_comparables": 28
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 32,
+    "predicted_price_per_unit": 111896.3473,
+    "p25_price_per_unit": 86479.8287,
+    "p75_price_per_unit": 173496.15,
+    "n_comparables": 18
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 33,
+    "predicted_price_per_unit": 110397.3208,
+    "p25_price_per_unit": 85321.2962,
+    "p75_price_per_unit": 171171.8978,
+    "n_comparables": 15
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 34,
+    "predicted_price_per_unit": 108962.2421,
+    "p25_price_per_unit": 84212.1862,
+    "p75_price_per_unit": 168946.7972,
+    "n_comparables": 15
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 35,
+    "predicted_price_per_unit": 107586.6196,
+    "p25_price_per_unit": 83149.0273,
+    "p75_price_per_unit": 166813.8839,
+    "n_comparables": 13
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 36,
+    "predicted_price_per_unit": 106266.3941,
+    "p25_price_per_unit": 82128.6823,
+    "p75_price_per_unit": 164766.8641,
+    "n_comparables": 18
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 37,
+    "predicted_price_per_unit": 104997.8866,
+    "p25_price_per_unit": 81148.3079,
+    "p75_price_per_unit": 162800.0333,
+    "n_comparables": 16
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 38,
+    "predicted_price_per_unit": 103777.7534,
+    "p25_price_per_unit": 80205.3199,
+    "p75_price_per_unit": 160908.2074,
+    "n_comparables": 16
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 39,
+    "predicted_price_per_unit": 102602.9479,
+    "p25_price_per_unit": 79297.3638,
+    "p75_price_per_unit": 159086.6624,
+    "n_comparables": 15
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 40,
+    "predicted_price_per_unit": 101470.6872,
+    "p25_price_per_unit": 78422.2886,
+    "p75_price_per_unit": 157331.0834,
+    "n_comparables": 15
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 41,
+    "predicted_price_per_unit": 100378.4234,
+    "p25_price_per_unit": 77578.1254,
+    "p75_price_per_unit": 155637.52,
+    "n_comparables": 16
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 42,
+    "predicted_price_per_unit": 99323.8186,
+    "p25_price_per_unit": 76763.0671,
+    "p75_price_per_unit": 154002.3472,
+    "n_comparables": 16
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 43,
+    "predicted_price_per_unit": 98304.7233,
+    "p25_price_per_unit": 75975.4526,
+    "p75_price_per_unit": 152422.232,
+    "n_comparables": 16
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 44,
+    "predicted_price_per_unit": 97319.1567,
+    "p25_price_per_unit": 75213.751,
+    "p75_price_per_unit": 150894.1034,
+    "n_comparables": 16
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 45,
+    "predicted_price_per_unit": 96365.2907,
+    "p25_price_per_unit": 74476.5493,
+    "p75_price_per_unit": 149415.1268,
+    "n_comparables": 18
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 46,
+    "predicted_price_per_unit": 95441.4343,
+    "p25_price_per_unit": 73762.5409,
+    "p75_price_per_unit": 147982.6803,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 47,
+    "predicted_price_per_unit": 94546.0213,
+    "p25_price_per_unit": 73070.515,
+    "p75_price_per_unit": 146594.3356,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 48,
+    "predicted_price_per_unit": 93677.5982,
+    "p25_price_per_unit": 72399.3485,
+    "p75_price_per_unit": 145247.8389,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 49,
+    "predicted_price_per_unit": 92834.8141,
+    "p25_price_per_unit": 71747.9973,
+    "p75_price_per_unit": 143941.0957,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 50,
+    "predicted_price_per_unit": 92016.4116,
+    "p25_price_per_unit": 71115.4895,
+    "p75_price_per_unit": 142672.1562,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 51,
+    "predicted_price_per_unit": 91221.2184,
+    "p25_price_per_unit": 70500.9192,
+    "p75_price_per_unit": 141439.2031,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 52,
+    "predicted_price_per_unit": 90448.1403,
+    "p25_price_per_unit": 69903.4407,
+    "p75_price_per_unit": 140240.5395,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 53,
+    "predicted_price_per_unit": 89696.1544,
+    "p25_price_per_unit": 69322.2635,
+    "p75_price_per_unit": 139074.5795,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 54,
+    "predicted_price_per_unit": 88964.3032,
+    "p25_price_per_unit": 68756.6475,
+    "p75_price_per_unit": 137939.8386,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 55,
+    "predicted_price_per_unit": 88251.6896,
+    "p25_price_per_unit": 68205.8993,
+    "p75_price_per_unit": 136834.9256,
+    "n_comparables": 14
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 56,
+    "predicted_price_per_unit": 87557.4715,
+    "p25_price_per_unit": 67669.3683,
+    "p75_price_per_unit": 135758.5352,
+    "n_comparables": 14
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 57,
+    "predicted_price_per_unit": 86880.8582,
+    "p25_price_per_unit": 67146.4433,
+    "p75_price_per_unit": 134709.4411,
+    "n_comparables": 14
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 58,
+    "predicted_price_per_unit": 86221.106,
+    "p25_price_per_unit": 66636.5494,
+    "p75_price_per_unit": 133686.4901,
+    "n_comparables": 13
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 59,
+    "predicted_price_per_unit": 85577.5145,
+    "p25_price_per_unit": 66139.1455,
+    "p75_price_per_unit": 132688.5966,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 60,
+    "predicted_price_per_unit": 84949.4241,
+    "p25_price_per_unit": 65653.7217,
+    "p75_price_per_unit": 131714.7375,
+    "n_comparables": 12
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 61,
+    "predicted_price_per_unit": 84336.2121,
+    "p25_price_per_unit": 65179.7968,
+    "p75_price_per_unit": 130763.9477,
+    "n_comparables": 13
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 62,
+    "predicted_price_per_unit": 83737.2908,
+    "p25_price_per_unit": 64716.9165,
+    "p75_price_per_unit": 129835.3156,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 63,
+    "predicted_price_per_unit": 83152.1046,
+    "p25_price_per_unit": 64264.6515,
+    "p75_price_per_unit": 128927.9798,
+    "n_comparables": 10
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 64,
+    "predicted_price_per_unit": 82580.1278,
+    "p25_price_per_unit": 63822.5955,
+    "p75_price_per_unit": 128041.1254,
+    "n_comparables": 10
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 65,
+    "predicted_price_per_unit": 82020.8628,
+    "p25_price_per_unit": 63390.3638,
+    "p75_price_per_unit": 127173.9807,
+    "n_comparables": 10
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 66,
+    "predicted_price_per_unit": 81473.8379,
+    "p25_price_per_unit": 62967.592,
+    "p75_price_per_unit": 126325.8143,
+    "n_comparables": 10
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 67,
+    "predicted_price_per_unit": 80938.6058,
+    "p25_price_per_unit": 62553.9344,
+    "p75_price_per_unit": 125495.9328,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 68,
+    "predicted_price_per_unit": 80414.7418,
+    "p25_price_per_unit": 62149.0626,
+    "p75_price_per_unit": 124683.6777,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 69,
+    "predicted_price_per_unit": 79901.8427,
+    "p25_price_per_unit": 61752.6651,
+    "p75_price_per_unit": 123888.4236,
+    "n_comparables": 6
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 70,
+    "predicted_price_per_unit": 79399.5248,
+    "p25_price_per_unit": 61364.4454,
+    "p75_price_per_unit": 123109.5758,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 71,
+    "predicted_price_per_unit": 78907.4233,
+    "p25_price_per_unit": 60984.1216,
+    "p75_price_per_unit": 122346.5687,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 72,
+    "predicted_price_per_unit": 78425.191,
+    "p25_price_per_unit": 60611.4252,
+    "p75_price_per_unit": 121598.8638,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 73,
+    "predicted_price_per_unit": 77952.4968,
+    "p25_price_per_unit": 60246.1004,
+    "p75_price_per_unit": 120865.9478,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 74,
+    "predicted_price_per_unit": 77489.0253,
+    "p25_price_per_unit": 59887.9034,
+    "p75_price_per_unit": 120147.3317,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 75,
+    "predicted_price_per_unit": 77034.4756,
+    "p25_price_per_unit": 59536.6016,
+    "p75_price_per_unit": 119442.5488,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 76,
+    "predicted_price_per_unit": 76588.5602,
+    "p25_price_per_unit": 59191.973,
+    "p75_price_per_unit": 118751.1536,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 77,
+    "predicted_price_per_unit": 76151.0049,
+    "p25_price_per_unit": 58853.8055,
+    "p75_price_per_unit": 118072.7207,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 78,
+    "predicted_price_per_unit": 75721.5472,
+    "p25_price_per_unit": 58521.8963,
+    "p75_price_per_unit": 117406.8433,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 79,
+    "predicted_price_per_unit": 75299.9364,
+    "p25_price_per_unit": 58196.0516,
+    "p75_price_per_unit": 116753.1325,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 80,
+    "predicted_price_per_unit": 74885.9325,
+    "p25_price_per_unit": 57876.086,
+    "p75_price_per_unit": 116111.2162,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 81,
+    "predicted_price_per_unit": 74479.3057,
+    "p25_price_per_unit": 57561.8217,
+    "p75_price_per_unit": 115480.7381,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 82,
+    "predicted_price_per_unit": 74079.8358,
+    "p25_price_per_unit": 57253.0888,
+    "p75_price_per_unit": 114861.3569,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 83,
+    "predicted_price_per_unit": 73687.3118,
+    "p25_price_per_unit": 56949.7241,
+    "p75_price_per_unit": 114252.7456,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 84,
+    "predicted_price_per_unit": 73301.5316,
+    "p25_price_per_unit": 56651.5713,
+    "p75_price_per_unit": 113654.5903,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 85,
+    "predicted_price_per_unit": 72922.3009,
+    "p25_price_per_unit": 56358.4804,
+    "p75_price_per_unit": 113066.5903,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 86,
+    "predicted_price_per_unit": 72549.4335,
+    "p25_price_per_unit": 56070.3073,
+    "p75_price_per_unit": 112488.4565,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 87,
+    "predicted_price_per_unit": 72182.7505,
+    "p25_price_per_unit": 55786.914,
+    "p75_price_per_unit": 111919.9116,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 88,
+    "predicted_price_per_unit": 71822.0799,
+    "p25_price_per_unit": 55508.1673,
+    "p75_price_per_unit": 111360.6891,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 89,
+    "predicted_price_per_unit": 71467.2565,
+    "p25_price_per_unit": 55233.9397,
+    "p75_price_per_unit": 110810.5327,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 90,
+    "predicted_price_per_unit": 71118.1215,
+    "p25_price_per_unit": 54964.1084,
+    "p75_price_per_unit": 110269.1961,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 91,
+    "predicted_price_per_unit": 70774.5218,
+    "p25_price_per_unit": 54698.5551,
+    "p75_price_per_unit": 109736.4421,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 92,
+    "predicted_price_per_unit": 70436.3103,
+    "p25_price_per_unit": 54437.1662,
+    "p75_price_per_unit": 109212.0426,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 93,
+    "predicted_price_per_unit": 70103.3454,
+    "p25_price_per_unit": 54179.832,
+    "p75_price_per_unit": 108695.778,
+    "n_comparables": 6
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 94,
+    "predicted_price_per_unit": 69775.4905,
+    "p25_price_per_unit": 53926.4472,
+    "p75_price_per_unit": 108187.4365,
+    "n_comparables": 6
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 95,
+    "predicted_price_per_unit": 69452.6142,
+    "p25_price_per_unit": 53676.9101,
+    "p75_price_per_unit": 107686.8142,
+    "n_comparables": 6
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 96,
+    "predicted_price_per_unit": 69134.5895,
+    "p25_price_per_unit": 53431.1226,
+    "p75_price_per_unit": 107193.7144,
+    "n_comparables": 6
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 97,
+    "predicted_price_per_unit": 68821.2941,
+    "p25_price_per_unit": 53188.9902,
+    "p75_price_per_unit": 106707.9476,
+    "n_comparables": 6
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 98,
+    "predicted_price_per_unit": 68512.6101,
+    "p25_price_per_unit": 52950.4218,
+    "p75_price_per_unit": 106229.3306,
+    "n_comparables": 6
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 99,
+    "predicted_price_per_unit": 68208.4236,
+    "p25_price_per_unit": 52715.3292,
+    "p75_price_per_unit": 105757.687,
+    "n_comparables": 6
+  },
+  {
+    "borough": "Manhattan",
+    "residential_units": 100,
+    "predicted_price_per_unit": 67908.6245,
+    "p25_price_per_unit": 52483.6275,
+    "p75_price_per_unit": 105292.8462,
+    "n_comparables": 6
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 5,
+    "predicted_price_per_unit": 206226.1145,
+    "p25_price_per_unit": 163197.7181,
+    "p75_price_per_unit": 307333.797,
+    "n_comparables": 151
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 6,
+    "predicted_price_per_unit": 192335.1669,
+    "p25_price_per_unit": 152205.0707,
+    "p75_price_per_unit": 286632.4531,
+    "n_comparables": 207
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 7,
+    "predicted_price_per_unit": 181323.0973,
+    "p25_price_per_unit": 143490.6331,
+    "p75_price_per_unit": 270221.4319,
+    "n_comparables": 212
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 8,
+    "predicted_price_per_unit": 172294.9609,
+    "p25_price_per_unit": 136346.1874,
+    "p75_price_per_unit": 256767.0182,
+    "n_comparables": 184
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 9,
+    "predicted_price_per_unit": 164705.4391,
+    "p25_price_per_unit": 130340.1942,
+    "p75_price_per_unit": 245456.5373,
+    "n_comparables": 78
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 10,
+    "predicted_price_per_unit": 158200.1093,
+    "p25_price_per_unit": 125192.18,
+    "p75_price_per_unit": 235761.8014,
+    "n_comparables": 73
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 11,
+    "predicted_price_per_unit": 152536.9479,
+    "p25_price_per_unit": 120710.6185,
+    "p75_price_per_unit": 227322.1289,
+    "n_comparables": 78
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 12,
+    "predicted_price_per_unit": 147544.0901,
+    "p25_price_per_unit": 116759.5039,
+    "p75_price_per_unit": 219881.3934,
+    "n_comparables": 23
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 13,
+    "predicted_price_per_unit": 143095.5512,
+    "p25_price_per_unit": 113239.1379,
+    "p75_price_per_unit": 213251.8433,
+    "n_comparables": 32
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 14,
+    "predicted_price_per_unit": 139096.5149,
+    "p25_price_per_unit": 110074.4873,
+    "p75_price_per_unit": 207292.1762,
+    "n_comparables": 26
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 15,
+    "predicted_price_per_unit": 135474.0212,
+    "p25_price_per_unit": 107207.8149,
+    "p75_price_per_unit": 201893.6613,
+    "n_comparables": 26
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 16,
+    "predicted_price_per_unit": 132170.8538,
+    "p25_price_per_unit": 104593.8425,
+    "p75_price_per_unit": 196971.0308,
+    "n_comparables": 33
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 17,
+    "predicted_price_per_unit": 129141.402,
+    "p25_price_per_unit": 102196.4758,
+    "p75_price_per_unit": 192456.3119,
+    "n_comparables": 31
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 18,
+    "predicted_price_per_unit": 126348.7824,
+    "p25_price_per_unit": 99986.527,
+    "p75_price_per_unit": 188294.5383,
+    "n_comparables": 30
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 19,
+    "predicted_price_per_unit": 123762.7911,
+    "p25_price_per_unit": 97940.0943,
+    "p75_price_per_unit": 184440.698,
+    "n_comparables": 29
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 20,
+    "predicted_price_per_unit": 121358.4159,
+    "p25_price_per_unit": 96037.384,
+    "p75_price_per_unit": 180857.5157,
+    "n_comparables": 29
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 21,
+    "predicted_price_per_unit": 119114.7357,
+    "p25_price_per_unit": 94261.8402,
+    "p75_price_per_unit": 177513.8133,
+    "n_comparables": 30
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 22,
+    "predicted_price_per_unit": 117014.0934,
+    "p25_price_per_unit": 92599.49,
+    "p75_price_per_unit": 174383.2769,
+    "n_comparables": 18
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 23,
+    "predicted_price_per_unit": 115041.4655,
+    "p25_price_per_unit": 91038.4444,
+    "p75_price_per_unit": 171443.517,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 24,
+    "predicted_price_per_unit": 113183.9739,
+    "p25_price_per_unit": 89568.5123,
+    "p75_price_per_unit": 168675.3423,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 25,
+    "predicted_price_per_unit": 111430.506,
+    "p25_price_per_unit": 88180.8996,
+    "p75_price_per_unit": 166062.1914,
+    "n_comparables": 15
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 26,
+    "predicted_price_per_unit": 109771.4123,
+    "p25_price_per_unit": 86867.9703,
+    "p75_price_per_unit": 163589.6841,
+    "n_comparables": 18
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 27,
+    "predicted_price_per_unit": 108198.2667,
+    "p25_price_per_unit": 85623.0564,
+    "p75_price_per_unit": 161245.2633,
+    "n_comparables": 15
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 28,
+    "predicted_price_per_unit": 106703.6729,
+    "p25_price_per_unit": 84440.3046,
+    "p75_price_per_unit": 159017.9062,
+    "n_comparables": 12
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 29,
+    "predicted_price_per_unit": 105281.1064,
+    "p25_price_per_unit": 83314.552,
+    "p75_price_per_unit": 156897.8898,
+    "n_comparables": 12
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 30,
+    "predicted_price_per_unit": 103924.7867,
+    "p25_price_per_unit": 82241.2238,
+    "p75_price_per_unit": 154876.5992,
+    "n_comparables": 12
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 31,
+    "predicted_price_per_unit": 102629.57,
+    "p25_price_per_unit": 81216.2498,
+    "p75_price_per_unit": 152946.3691,
+    "n_comparables": 16
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 32,
+    "predicted_price_per_unit": 101390.862,
+    "p25_price_per_unit": 80235.9941,
+    "p75_price_per_unit": 151100.3525,
+    "n_comparables": 15
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 33,
+    "predicted_price_per_unit": 100204.5437,
+    "p25_price_per_unit": 79297.1973,
+    "p75_price_per_unit": 149332.411,
+    "n_comparables": 16
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 34,
+    "predicted_price_per_unit": 99066.9099,
+    "p25_price_per_unit": 78396.927,
+    "p75_price_per_unit": 147637.0228,
+    "n_comparables": 16
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 35,
+    "predicted_price_per_unit": 97974.6165,
+    "p25_price_per_unit": 77532.5369,
+    "p75_price_per_unit": 146009.2043,
+    "n_comparables": 17
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 36,
+    "predicted_price_per_unit": 96924.6365,
+    "p25_price_per_unit": 76701.6318,
+    "p75_price_per_unit": 144444.4444,
+    "n_comparables": 18
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 37,
+    "predicted_price_per_unit": 95914.222,
+    "p25_price_per_unit": 75902.0369,
+    "p75_price_per_unit": 142938.6481,
+    "n_comparables": 18
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 38,
+    "predicted_price_per_unit": 94940.8717,
+    "p25_price_per_unit": 75131.773,
+    "p75_price_per_unit": 141488.0877,
+    "n_comparables": 17
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 39,
+    "predicted_price_per_unit": 94002.3031,
+    "p25_price_per_unit": 74389.0336,
+    "p75_price_per_unit": 140089.3616,
+    "n_comparables": 18
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 40,
+    "predicted_price_per_unit": 93096.4282,
+    "p25_price_per_unit": 73672.1665,
+    "p75_price_per_unit": 138739.3581,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 41,
+    "predicted_price_per_unit": 92221.3325,
+    "p25_price_per_unit": 72979.6566,
+    "p75_price_per_unit": 137435.2241,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 42,
+    "predicted_price_per_unit": 91375.257,
+    "p25_price_per_unit": 72310.112,
+    "p75_price_per_unit": 136174.3382,
+    "n_comparables": 18
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 43,
+    "predicted_price_per_unit": 90556.5819,
+    "p25_price_per_unit": 71662.2507,
+    "p75_price_per_unit": 134954.2865,
+    "n_comparables": 18
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 44,
+    "predicted_price_per_unit": 89763.813,
+    "p25_price_per_unit": 71034.8904,
+    "p75_price_per_unit": 133772.8421,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 45,
+    "predicted_price_per_unit": 88995.569,
+    "p25_price_per_unit": 70426.9381,
+    "p75_price_per_unit": 132627.9468,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 46,
+    "predicted_price_per_unit": 88250.5712,
+    "p25_price_per_unit": 69837.3816,
+    "p75_price_per_unit": 131517.6945,
+    "n_comparables": 21
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 47,
+    "predicted_price_per_unit": 87527.6332,
+    "p25_price_per_unit": 69265.2822,
+    "p75_price_per_unit": 130440.3175,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 48,
+    "predicted_price_per_unit": 86825.6529,
+    "p25_price_per_unit": 68709.7678,
+    "p75_price_per_unit": 129394.1732,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 49,
+    "predicted_price_per_unit": 86143.6048,
+    "p25_price_per_unit": 68170.0267,
+    "p75_price_per_unit": 128377.7334,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 50,
+    "predicted_price_per_unit": 85480.5332,
+    "p25_price_per_unit": 67645.3028,
+    "p75_price_per_unit": 127389.5737,
+    "n_comparables": 21
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 51,
+    "predicted_price_per_unit": 84835.546,
+    "p25_price_per_unit": 67134.8901,
+    "p75_price_per_unit": 126428.3649,
+    "n_comparables": 24
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 52,
+    "predicted_price_per_unit": 84207.8097,
+    "p25_price_per_unit": 66638.1289,
+    "p75_price_per_unit": 125492.8648,
+    "n_comparables": 22
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 53,
+    "predicted_price_per_unit": 83596.5443,
+    "p25_price_per_unit": 66154.402,
+    "p75_price_per_unit": 124581.9107,
+    "n_comparables": 22
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 54,
+    "predicted_price_per_unit": 83001.0189,
+    "p25_price_per_unit": 65683.1309,
+    "p75_price_per_unit": 123694.4134,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 55,
+    "predicted_price_per_unit": 82420.5476,
+    "p25_price_per_unit": 65223.7731,
+    "p75_price_per_unit": 122829.3511,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 56,
+    "predicted_price_per_unit": 81854.4865,
+    "p25_price_per_unit": 64775.8188,
+    "p75_price_per_unit": 121985.764,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 57,
+    "predicted_price_per_unit": 81302.23,
+    "p25_price_per_unit": 64338.7887,
+    "p75_price_per_unit": 121162.7494,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 58,
+    "predicted_price_per_unit": 80763.2078,
+    "p25_price_per_unit": 63912.2318,
+    "p75_price_per_unit": 120359.4577,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 59,
+    "predicted_price_per_unit": 80236.8829,
+    "p25_price_per_unit": 63495.7228,
+    "p75_price_per_unit": 119575.0883,
+    "n_comparables": 21
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 60,
+    "predicted_price_per_unit": 79722.7482,
+    "p25_price_per_unit": 63088.8606,
+    "p75_price_per_unit": 118808.8859,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 61,
+    "predicted_price_per_unit": 79220.3254,
+    "p25_price_per_unit": 62691.2667,
+    "p75_price_per_unit": 118060.1373,
+    "n_comparables": 21
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 62,
+    "predicted_price_per_unit": 78729.1621,
+    "p25_price_per_unit": 62302.5829,
+    "p75_price_per_unit": 117328.1684,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 63,
+    "predicted_price_per_unit": 78248.8302,
+    "p25_price_per_unit": 61922.4707,
+    "p75_price_per_unit": 116612.3415,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 64,
+    "predicted_price_per_unit": 77778.9248,
+    "p25_price_per_unit": 61550.6095,
+    "p75_price_per_unit": 115912.0528,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 65,
+    "predicted_price_per_unit": 77319.0617,
+    "p25_price_per_unit": 61186.6953,
+    "p75_price_per_unit": 115226.7299,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 66,
+    "predicted_price_per_unit": 76868.8767,
+    "p25_price_per_unit": 60830.4399,
+    "p75_price_per_unit": 114555.8301,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 67,
+    "predicted_price_per_unit": 76428.0241,
+    "p25_price_per_unit": 60481.5698,
+    "p75_price_per_unit": 113898.8382,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 68,
+    "predicted_price_per_unit": 75996.1754,
+    "p25_price_per_unit": 60139.8249,
+    "p75_price_per_unit": 113255.2645,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 69,
+    "predicted_price_per_unit": 75573.0183,
+    "p25_price_per_unit": 59804.9581,
+    "p75_price_per_unit": 112624.6436,
+    "n_comparables": 18
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 70,
+    "predicted_price_per_unit": 75158.2556,
+    "p25_price_per_unit": 59476.7343,
+    "p75_price_per_unit": 112006.5329,
+    "n_comparables": 17
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 71,
+    "predicted_price_per_unit": 74751.6045,
+    "p25_price_per_unit": 59154.9296,
+    "p75_price_per_unit": 111400.5105,
+    "n_comparables": 18
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 72,
+    "predicted_price_per_unit": 74352.7953,
+    "p25_price_per_unit": 58839.3306,
+    "p75_price_per_unit": 110806.1748,
+    "n_comparables": 18
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 73,
+    "predicted_price_per_unit": 73961.5711,
+    "p25_price_per_unit": 58529.734,
+    "p75_price_per_unit": 110223.1427,
+    "n_comparables": 18
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 74,
+    "predicted_price_per_unit": 73577.6865,
+    "p25_price_per_unit": 58225.9457,
+    "p75_price_per_unit": 109651.0488,
+    "n_comparables": 16
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 75,
+    "predicted_price_per_unit": 73200.9075,
+    "p25_price_per_unit": 57927.7803,
+    "p75_price_per_unit": 109089.5442,
+    "n_comparables": 14
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 76,
+    "predicted_price_per_unit": 72831.0103,
+    "p25_price_per_unit": 57635.061,
+    "p75_price_per_unit": 108538.2954,
+    "n_comparables": 15
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 77,
+    "predicted_price_per_unit": 72467.7813,
+    "p25_price_per_unit": 57347.6186,
+    "p75_price_per_unit": 107996.984,
+    "n_comparables": 14
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 78,
+    "predicted_price_per_unit": 72111.0159,
+    "p25_price_per_unit": 57065.2911,
+    "p75_price_per_unit": 107465.3051,
+    "n_comparables": 14
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 79,
+    "predicted_price_per_unit": 71760.5184,
+    "p25_price_per_unit": 56787.9237,
+    "p75_price_per_unit": 106942.9672,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 80,
+    "predicted_price_per_unit": 71416.1014,
+    "p25_price_per_unit": 56515.3682,
+    "p75_price_per_unit": 106429.6909,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 81,
+    "predicted_price_per_unit": 71077.5854,
+    "p25_price_per_unit": 56247.4824,
+    "p75_price_per_unit": 105925.2087,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 82,
+    "predicted_price_per_unit": 70744.7983,
+    "p25_price_per_unit": 55984.1302,
+    "p75_price_per_unit": 105429.264,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 83,
+    "predicted_price_per_unit": 70417.575,
+    "p25_price_per_unit": 55725.181,
+    "p75_price_per_unit": 104941.611,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 84,
+    "predicted_price_per_unit": 70095.7571,
+    "p25_price_per_unit": 55470.5093,
+    "p75_price_per_unit": 104462.0136,
+    "n_comparables": 10
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 85,
+    "predicted_price_per_unit": 69779.1926,
+    "p25_price_per_unit": 55219.995,
+    "p75_price_per_unit": 103990.2452,
+    "n_comparables": 10
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 86,
+    "predicted_price_per_unit": 69467.7354,
+    "p25_price_per_unit": 54973.5222,
+    "p75_price_per_unit": 103526.088,
+    "n_comparables": 10
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 87,
+    "predicted_price_per_unit": 69161.2451,
+    "p25_price_per_unit": 54730.9801,
+    "p75_price_per_unit": 103069.3329,
+    "n_comparables": 10
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 88,
+    "predicted_price_per_unit": 68859.5867,
+    "p25_price_per_unit": 54492.2618,
+    "p75_price_per_unit": 102619.7788,
+    "n_comparables": 10
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 89,
+    "predicted_price_per_unit": 68562.6306,
+    "p25_price_per_unit": 54257.2646,
+    "p75_price_per_unit": 102177.2322,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 90,
+    "predicted_price_per_unit": 68270.2517,
+    "p25_price_per_unit": 54025.8896,
+    "p75_price_per_unit": 101741.507,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 91,
+    "predicted_price_per_unit": 67982.3299,
+    "p25_price_per_unit": 53798.0417,
+    "p75_price_per_unit": 101312.424,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 92,
+    "predicted_price_per_unit": 67698.7492,
+    "p25_price_per_unit": 53573.6292,
+    "p75_price_per_unit": 100889.8107,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 93,
+    "predicted_price_per_unit": 67419.3982,
+    "p25_price_per_unit": 53352.5639,
+    "p75_price_per_unit": 100473.5006,
+    "n_comparables": 6
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 94,
+    "predicted_price_per_unit": 67144.1693,
+    "p25_price_per_unit": 53134.7605,
+    "p75_price_per_unit": 100063.3335,
+    "n_comparables": 6
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 95,
+    "predicted_price_per_unit": 66872.9587,
+    "p25_price_per_unit": 52920.1371,
+    "p75_price_per_unit": 99659.155,
+    "n_comparables": 5
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 96,
+    "predicted_price_per_unit": 66605.6664,
+    "p25_price_per_unit": 52708.6145,
+    "p75_price_per_unit": 99260.8157,
+    "n_comparables": 5
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 97,
+    "predicted_price_per_unit": 66342.1959,
+    "p25_price_per_unit": 52500.1162,
+    "p75_price_per_unit": 98868.1719,
+    "n_comparables": 4
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 98,
+    "predicted_price_per_unit": 66082.4539,
+    "p25_price_per_unit": 52294.5685,
+    "p75_price_per_unit": 98481.0847,
+    "n_comparables": 4
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 99,
+    "predicted_price_per_unit": 65826.3504,
+    "p25_price_per_unit": 52091.9002,
+    "p75_price_per_unit": 98099.4199,
+    "n_comparables": 4
+  },
+  {
+    "borough": "Brooklyn",
+    "residential_units": 100,
+    "predicted_price_per_unit": 65573.7986,
+    "p25_price_per_unit": 51892.0425,
+    "p75_price_per_unit": 97723.048,
+    "n_comparables": 4
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 5,
+    "predicted_price_per_unit": 213519.6385,
+    "p25_price_per_unit": 173771.3277,
+    "p75_price_per_unit": 276192.9485,
+    "n_comparables": 104
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 6,
+    "predicted_price_per_unit": 204636.2516,
+    "p25_price_per_unit": 166541.651,
+    "p75_price_per_unit": 264702.0671,
+    "n_comparables": 113
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 7,
+    "predicted_price_per_unit": 197414.4224,
+    "p25_price_per_unit": 160664.2205,
+    "p75_price_per_unit": 255360.4519,
+    "n_comparables": 114
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 8,
+    "predicted_price_per_unit": 191364.9263,
+    "p25_price_per_unit": 155740.8843,
+    "p75_price_per_unit": 247535.2787,
+    "n_comparables": 84
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 9,
+    "predicted_price_per_unit": 186182.9527,
+    "p25_price_per_unit": 151523.5746,
+    "p75_price_per_unit": 240832.2673,
+    "n_comparables": 16
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 10,
+    "predicted_price_per_unit": 181666.537,
+    "p25_price_per_unit": 147847.9242,
+    "p75_price_per_unit": 234990.1716,
+    "n_comparables": 15
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 11,
+    "predicted_price_per_unit": 177675.3965,
+    "p25_price_per_unit": 144599.7649,
+    "p75_price_per_unit": 229827.5323,
+    "n_comparables": 16
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 12,
+    "predicted_price_per_unit": 174108.3837,
+    "p25_price_per_unit": 141696.7789,
+    "p75_price_per_unit": 225213.5129,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 13,
+    "predicted_price_per_unit": 170890.3223,
+    "p25_price_per_unit": 139077.7841,
+    "p75_price_per_unit": 221050.8706,
+    "n_comparables": 12
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 14,
+    "predicted_price_per_unit": 167963.9152,
+    "p25_price_per_unit": 136696.1501,
+    "p75_price_per_unit": 217265.4904,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 15,
+    "predicted_price_per_unit": 165284.5574,
+    "p25_price_per_unit": 134515.5751,
+    "p75_price_per_unit": 213799.6746,
+    "n_comparables": 10
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 16,
+    "predicted_price_per_unit": 162816.8898,
+    "p25_price_per_unit": 132507.2827,
+    "p75_price_per_unit": 210607.6854,
+    "n_comparables": 14
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 17,
+    "predicted_price_per_unit": 160532.4408,
+    "p25_price_per_unit": 130648.1013,
+    "p75_price_per_unit": 207652.6939,
+    "n_comparables": 13
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 18,
+    "predicted_price_per_unit": 158407.9689,
+    "p25_price_per_unit": 128919.1161,
+    "p75_price_per_unit": 204904.6369,
+    "n_comparables": 13
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 19,
+    "predicted_price_per_unit": 156424.2726,
+    "p25_price_per_unit": 127304.7,
+    "p75_price_per_unit": 202338.6765,
+    "n_comparables": 13
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 20,
+    "predicted_price_per_unit": 154565.3172,
+    "p25_price_per_unit": 125791.8034,
+    "p75_price_per_unit": 199934.0716,
+    "n_comparables": 15
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 21,
+    "predicted_price_per_unit": 152817.5846,
+    "p25_price_per_unit": 124369.4245,
+    "p75_price_per_unit": 197673.3361,
+    "n_comparables": 15
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 22,
+    "predicted_price_per_unit": 151169.5795,
+    "p25_price_per_unit": 123028.2082,
+    "p75_price_per_unit": 195541.6007,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 23,
+    "predicted_price_per_unit": 149611.4512,
+    "p25_price_per_unit": 121760.1373,
+    "p75_price_per_unit": 193526.123,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 24,
+    "predicted_price_per_unit": 148134.6978,
+    "p25_price_per_unit": 120558.2929,
+    "p75_price_per_unit": 191615.9059,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 25,
+    "predicted_price_per_unit": 146731.935,
+    "p25_price_per_unit": 119416.665,
+    "p75_price_per_unit": 189801.3974,
+    "n_comparables": 12
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 26,
+    "predicted_price_per_unit": 145396.7104,
+    "p25_price_per_unit": 118330.0028,
+    "p75_price_per_unit": 188074.2513,
+    "n_comparables": 14
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 27,
+    "predicted_price_per_unit": 144123.3562,
+    "p25_price_per_unit": 117293.6932,
+    "p75_price_per_unit": 186427.1361,
+    "n_comparables": 10
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 28,
+    "predicted_price_per_unit": 142906.8681,
+    "p25_price_per_unit": 116303.6636,
+    "p75_price_per_unit": 184853.5785,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 29,
+    "predicted_price_per_unit": 141742.8073,
+    "p25_price_per_unit": 115356.3016,
+    "p75_price_per_unit": 183347.8369,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 30,
+    "predicted_price_per_unit": 140627.2199,
+    "p25_price_per_unit": 114448.3893,
+    "p75_price_per_unit": 181904.797,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 31,
+    "predicted_price_per_unit": 139556.5696,
+    "p25_price_per_unit": 113577.0487,
+    "p75_price_per_unit": 180519.8842,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 32,
+    "predicted_price_per_unit": 138527.6817,
+    "p25_price_per_unit": 112739.6962,
+    "p75_price_per_unit": 179188.9923,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 33,
+    "predicted_price_per_unit": 137537.6966,
+    "p25_price_per_unit": 111934.0043,
+    "p75_price_per_unit": 177908.422,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 34,
+    "predicted_price_per_unit": 136584.0294,
+    "p25_price_per_unit": 111157.8696,
+    "p75_price_per_unit": 176674.8298,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 35,
+    "predicted_price_per_unit": 135664.3369,
+    "p25_price_per_unit": 110409.3849,
+    "p75_price_per_unit": 175485.1848,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 36,
+    "predicted_price_per_unit": 134776.4887,
+    "p25_price_per_unit": 109686.8163,
+    "p75_price_per_unit": 174336.731,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 37,
+    "predicted_price_per_unit": 133918.5423,
+    "p25_price_per_unit": 108988.5832,
+    "p75_price_per_unit": 173226.9561,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 38,
+    "predicted_price_per_unit": 133088.7224,
+    "p25_price_per_unit": 108313.2406,
+    "p75_price_per_unit": 172153.5635,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 39,
+    "predicted_price_per_unit": 132285.4023,
+    "p25_price_per_unit": 107659.4647,
+    "p75_price_per_unit": 171114.449,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 40,
+    "predicted_price_per_unit": 131507.0881,
+    "p25_price_per_unit": 107026.0397,
+    "p75_price_per_unit": 170107.6803,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 41,
+    "predicted_price_per_unit": 130752.4048,
+    "p25_price_per_unit": 106411.8464,
+    "p75_price_per_unit": 169131.4787,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 42,
+    "predicted_price_per_unit": 130020.0842,
+    "p25_price_per_unit": 105815.8529,
+    "p75_price_per_unit": 168184.2039,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 43,
+    "predicted_price_per_unit": 129308.9544,
+    "p25_price_per_unit": 105237.1054,
+    "p75_price_per_unit": 167264.3399,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 44,
+    "predicted_price_per_unit": 128617.9304,
+    "p25_price_per_unit": 104674.7207,
+    "p75_price_per_unit": 166370.4832,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 45,
+    "predicted_price_per_unit": 127946.0058,
+    "p25_price_per_unit": 104127.88,
+    "p75_price_per_unit": 165501.332,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 46,
+    "predicted_price_per_unit": 127292.2454,
+    "p25_price_per_unit": 103595.8221,
+    "p75_price_per_unit": 164655.6768,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 47,
+    "predicted_price_per_unit": 126655.7791,
+    "p25_price_per_unit": 103077.8389,
+    "p75_price_per_unit": 163832.3918,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 48,
+    "predicted_price_per_unit": 126035.7958,
+    "p25_price_per_unit": 102573.2702,
+    "p75_price_per_unit": 163030.428,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 49,
+    "predicted_price_per_unit": 125431.5383,
+    "p25_price_per_unit": 102081.4998,
+    "p75_price_per_unit": 162248.8059,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 50,
+    "predicted_price_per_unit": 124842.2987,
+    "p25_price_per_unit": 101601.9517,
+    "p75_price_per_unit": 161486.6099,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 51,
+    "predicted_price_per_unit": 124267.4145,
+    "p25_price_per_unit": 101134.0865,
+    "p75_price_per_unit": 160742.9829,
+    "n_comparables": 10
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 52,
+    "predicted_price_per_unit": 123706.2645,
+    "p25_price_per_unit": 100677.3989,
+    "p75_price_per_unit": 160017.1215,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 53,
+    "predicted_price_per_unit": 123158.2658,
+    "p25_price_per_unit": 100231.4144,
+    "p75_price_per_unit": 159308.2716,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 54,
+    "predicted_price_per_unit": 122622.8707,
+    "p25_price_per_unit": 99795.6871,
+    "p75_price_per_unit": 158615.7247,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 55,
+    "predicted_price_per_unit": 122099.5637,
+    "p25_price_per_unit": 99369.7978,
+    "p75_price_per_unit": 157938.8142,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 56,
+    "predicted_price_per_unit": 121587.8596,
+    "p25_price_per_unit": 98953.3513,
+    "p75_price_per_unit": 157276.9122,
+    "n_comparables": 10
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 57,
+    "predicted_price_per_unit": 121087.3006,
+    "p25_price_per_unit": 98545.9751,
+    "p75_price_per_unit": 156629.4267,
+    "n_comparables": 10
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 58,
+    "predicted_price_per_unit": 120597.4547,
+    "p25_price_per_unit": 98147.3178,
+    "p75_price_per_unit": 155995.7989,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 59,
+    "predicted_price_per_unit": 120117.9138,
+    "p25_price_per_unit": 97757.0471,
+    "p75_price_per_unit": 155375.5009,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 60,
+    "predicted_price_per_unit": 119648.2919,
+    "p25_price_per_unit": 97374.8489,
+    "p75_price_per_unit": 154768.0333,
+    "n_comparables": 12
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 61,
+    "predicted_price_per_unit": 119188.2235,
+    "p25_price_per_unit": 97000.4258,
+    "p75_price_per_unit": 154172.9234,
+    "n_comparables": 12
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 62,
+    "predicted_price_per_unit": 118737.3624,
+    "p25_price_per_unit": 96633.4959,
+    "p75_price_per_unit": 153589.7234,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 63,
+    "predicted_price_per_unit": 118295.3802,
+    "p25_price_per_unit": 96273.7921,
+    "p75_price_per_unit": 153018.0085,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 64,
+    "predicted_price_per_unit": 117861.9652,
+    "p25_price_per_unit": 95921.0606,
+    "p75_price_per_unit": 152457.3755,
+    "n_comparables": 12
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 65,
+    "predicted_price_per_unit": 117436.8214,
+    "p25_price_per_unit": 95575.0605,
+    "p75_price_per_unit": 151907.4414,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 66,
+    "predicted_price_per_unit": 117019.6672,
+    "p25_price_per_unit": 95235.5628,
+    "p75_price_per_unit": 151367.8421,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 67,
+    "predicted_price_per_unit": 116610.2348,
+    "p25_price_per_unit": 94902.3493,
+    "p75_price_per_unit": 150838.2311,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 68,
+    "predicted_price_per_unit": 116208.2692,
+    "p25_price_per_unit": 94575.2127,
+    "p75_price_per_unit": 150318.2786,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 69,
+    "predicted_price_per_unit": 115813.5273,
+    "p25_price_per_unit": 94253.955,
+    "p75_price_per_unit": 149807.6702,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 70,
+    "predicted_price_per_unit": 115425.7775,
+    "p25_price_per_unit": 93938.3878,
+    "p75_price_per_unit": 149306.1061,
+    "n_comparables": 12
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 71,
+    "predicted_price_per_unit": 115044.7985,
+    "p25_price_per_unit": 93628.331,
+    "p75_price_per_unit": 148813.3005,
+    "n_comparables": 12
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 72,
+    "predicted_price_per_unit": 114670.3794,
+    "p25_price_per_unit": 93323.6128,
+    "p75_price_per_unit": 148328.98,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 73,
+    "predicted_price_per_unit": 114302.3183,
+    "p25_price_per_unit": 93024.0691,
+    "p75_price_per_unit": 147852.8839,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 74,
+    "predicted_price_per_unit": 113940.4224,
+    "p25_price_per_unit": 92729.5429,
+    "p75_price_per_unit": 147384.7626,
+    "n_comparables": 10
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 75,
+    "predicted_price_per_unit": 113584.5072,
+    "p25_price_per_unit": 92439.884,
+    "p75_price_per_unit": 146924.3774,
+    "n_comparables": 10
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 76,
+    "predicted_price_per_unit": 113234.396,
+    "p25_price_per_unit": 92154.9487,
+    "p75_price_per_unit": 146471.4999,
+    "n_comparables": 10
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 77,
+    "predicted_price_per_unit": 112889.9197,
+    "p25_price_per_unit": 91874.5993,
+    "p75_price_per_unit": 146025.9112,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 78,
+    "predicted_price_per_unit": 112550.9161,
+    "p25_price_per_unit": 91598.7038,
+    "p75_price_per_unit": 145587.4017,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 79,
+    "predicted_price_per_unit": 112217.2299,
+    "p25_price_per_unit": 91327.1358,
+    "p75_price_per_unit": 145155.7702,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 80,
+    "predicted_price_per_unit": 111888.7117,
+    "p25_price_per_unit": 91059.7738,
+    "p75_price_per_unit": 144730.8239,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 81,
+    "predicted_price_per_unit": 111565.2186,
+    "p25_price_per_unit": 90796.5014,
+    "p75_price_per_unit": 144312.3775,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 82,
+    "predicted_price_per_unit": 111246.6129,
+    "p25_price_per_unit": 90537.2066,
+    "p75_price_per_unit": 143900.2531,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 83,
+    "predicted_price_per_unit": 110932.7626,
+    "p25_price_per_unit": 90281.782,
+    "p75_price_per_unit": 143494.28,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 84,
+    "predicted_price_per_unit": 110623.5408,
+    "p25_price_per_unit": 90030.1241,
+    "p75_price_per_unit": 143094.2938,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 85,
+    "predicted_price_per_unit": 110318.8251,
+    "p25_price_per_unit": 89782.1336,
+    "p75_price_per_unit": 142700.1366,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 86,
+    "predicted_price_per_unit": 110018.4981,
+    "p25_price_per_unit": 89537.7148,
+    "p75_price_per_unit": 142311.6562,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 87,
+    "predicted_price_per_unit": 109722.4467,
+    "p25_price_per_unit": 89296.7756,
+    "p75_price_per_unit": 141928.7063,
+    "n_comparables": 6
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 88,
+    "predicted_price_per_unit": 109430.5619,
+    "p25_price_per_unit": 89059.2273,
+    "p75_price_per_unit": 141551.1461,
+    "n_comparables": 6
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 89,
+    "predicted_price_per_unit": 109142.7386,
+    "p25_price_per_unit": 88824.9846,
+    "p75_price_per_unit": 141178.8395,
+    "n_comparables": 5
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 90,
+    "predicted_price_per_unit": 108858.8757,
+    "p25_price_per_unit": 88593.9649,
+    "p75_price_per_unit": 140811.6558,
+    "n_comparables": 5
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 91,
+    "predicted_price_per_unit": 108578.8756,
+    "p25_price_per_unit": 88366.0889,
+    "p75_price_per_unit": 140449.4687,
+    "n_comparables": 5
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 92,
+    "predicted_price_per_unit": 108302.644,
+    "p25_price_per_unit": 88141.28,
+    "p75_price_per_unit": 140092.1564,
+    "n_comparables": 4
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 93,
+    "predicted_price_per_unit": 108030.0903,
+    "p25_price_per_unit": 87919.4642,
+    "p75_price_per_unit": 139739.6013,
+    "n_comparables": 4
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 94,
+    "predicted_price_per_unit": 107761.1265,
+    "p25_price_per_unit": 87700.5701,
+    "p75_price_per_unit": 139391.69,
+    "n_comparables": 4
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 95,
+    "predicted_price_per_unit": 107495.6681,
+    "p25_price_per_unit": 87484.5288,
+    "p75_price_per_unit": 139048.3129,
+    "n_comparables": 4
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 96,
+    "predicted_price_per_unit": 107233.633,
+    "p25_price_per_unit": 87271.2736,
+    "p75_price_per_unit": 138709.3641,
+    "n_comparables": 4
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 97,
+    "predicted_price_per_unit": 106974.9423,
+    "p25_price_per_unit": 87060.7401,
+    "p75_price_per_unit": 138374.7412,
+    "n_comparables": 4
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 98,
+    "predicted_price_per_unit": 106719.5193,
+    "p25_price_per_unit": 86852.866,
+    "p75_price_per_unit": 138044.3452,
+    "n_comparables": 3
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 99,
+    "predicted_price_per_unit": 106467.2901,
+    "p25_price_per_unit": 86647.5912,
+    "p75_price_per_unit": 137718.0806,
+    "n_comparables": 3
+  },
+  {
+    "borough": "Queens",
+    "residential_units": 100,
+    "predicted_price_per_unit": 106218.1831,
+    "p25_price_per_unit": 86444.8574,
+    "p75_price_per_unit": 137395.8545,
+    "n_comparables": 3
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 5,
+    "predicted_price_per_unit": 166821.4392,
+    "p25_price_per_unit": 124139.0504,
+    "p75_price_per_unit": 232833.5366,
+    "n_comparables": 31
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 6,
+    "predicted_price_per_unit": 155408.6978,
+    "p25_price_per_unit": 115646.3357,
+    "p75_price_per_unit": 216904.7149,
+    "n_comparables": 44
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 7,
+    "predicted_price_per_unit": 146370.6918,
+    "p25_price_per_unit": 108920.7644,
+    "p75_price_per_unit": 204290.3238,
+    "n_comparables": 48
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 8,
+    "predicted_price_per_unit": 138967.5946,
+    "p25_price_per_unit": 103411.7995,
+    "p75_price_per_unit": 193957.7831,
+    "n_comparables": 43
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 9,
+    "predicted_price_per_unit": 132749.0236,
+    "p25_price_per_unit": 98784.2918,
+    "p75_price_per_unit": 185278.4917,
+    "n_comparables": 37
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 10,
+    "predicted_price_per_unit": 127422.4927,
+    "p25_price_per_unit": 94820.5897,
+    "p75_price_per_unit": 177844.2253,
+    "n_comparables": 31
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 11,
+    "predicted_price_per_unit": 122788.4145,
+    "p25_price_per_unit": 91372.1716,
+    "p75_price_per_unit": 171376.4186,
+    "n_comparables": 34
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 12,
+    "predicted_price_per_unit": 118705.1482,
+    "p25_price_per_unit": 88333.6365,
+    "p75_price_per_unit": 165677.3829,
+    "n_comparables": 22
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 13,
+    "predicted_price_per_unit": 115068.9245,
+    "p25_price_per_unit": 85627.7651,
+    "p75_price_per_unit": 160602.287,
+    "n_comparables": 24
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 14,
+    "predicted_price_per_unit": 111801.6875,
+    "p25_price_per_unit": 83196.4727,
+    "p75_price_per_unit": 156042.1875,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 15,
+    "predicted_price_per_unit": 108843.4028,
+    "p25_price_per_unit": 80995.0851,
+    "p75_price_per_unit": 151913.2944,
+    "n_comparables": 16
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 16,
+    "predicted_price_per_unit": 106147.012,
+    "p25_price_per_unit": 78988.584,
+    "p75_price_per_unit": 148149.928,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 17,
+    "predicted_price_per_unit": 103675.0174,
+    "p25_price_per_unit": 77149.0659,
+    "p75_price_per_unit": 144699.7524,
+    "n_comparables": 18
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 18,
+    "predicted_price_per_unit": 101397.108,
+    "p25_price_per_unit": 75453.975,
+    "p75_price_per_unit": 141520.4627,
+    "n_comparables": 18
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 19,
+    "predicted_price_per_unit": 99288.4714,
+    "p25_price_per_unit": 73884.8473,
+    "p75_price_per_unit": 138577.4278,
+    "n_comparables": 15
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 20,
+    "predicted_price_per_unit": 97328.5672,
+    "p25_price_per_unit": 72426.3977,
+    "p75_price_per_unit": 135841.9794,
+    "n_comparables": 16
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 21,
+    "predicted_price_per_unit": 95500.2201,
+    "p25_price_per_unit": 71065.8456,
+    "p75_price_per_unit": 133290.1461,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 22,
+    "predicted_price_per_unit": 93788.9394,
+    "p25_price_per_unit": 69792.4075,
+    "p75_price_per_unit": 130901.7028,
+    "n_comparables": 15
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 23,
+    "predicted_price_per_unit": 92182.3988,
+    "p25_price_per_unit": 68596.9112,
+    "p75_price_per_unit": 128659.4459,
+    "n_comparables": 16
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 24,
+    "predicted_price_per_unit": 90670.0359,
+    "p25_price_per_unit": 67471.4965,
+    "p75_price_per_unit": 126548.6332,
+    "n_comparables": 15
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 25,
+    "predicted_price_per_unit": 89242.738,
+    "p25_price_per_unit": 66409.3824,
+    "p75_price_per_unit": 124556.5463,
+    "n_comparables": 14
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 26,
+    "predicted_price_per_unit": 87892.595,
+    "p25_price_per_unit": 65404.6826,
+    "p75_price_per_unit": 122672.1448,
+    "n_comparables": 18
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 27,
+    "predicted_price_per_unit": 86612.7011,
+    "p25_price_per_unit": 64452.2581,
+    "p75_price_per_unit": 120885.7902,
+    "n_comparables": 17
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 28,
+    "predicted_price_per_unit": 85396.9956,
+    "p25_price_per_unit": 63547.5991,
+    "p75_price_per_unit": 119189.0239,
+    "n_comparables": 17
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 29,
+    "predicted_price_per_unit": 84240.134,
+    "p25_price_per_unit": 62686.7284,
+    "p75_price_per_unit": 117574.3863,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 30,
+    "predicted_price_per_unit": 83137.3819,
+    "p25_price_per_unit": 61866.1228,
+    "p75_price_per_unit": 116035.2695,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 31,
+    "predicted_price_per_unit": 82084.5275,
+    "p25_price_per_unit": 61082.6482,
+    "p75_price_per_unit": 114565.7952,
+    "n_comparables": 21
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 32,
+    "predicted_price_per_unit": 81077.8095,
+    "p25_price_per_unit": 60333.5058,
+    "p75_price_per_unit": 113160.7137,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 33,
+    "predicted_price_per_unit": 80113.8566,
+    "p25_price_per_unit": 59616.1868,
+    "p75_price_per_unit": 111815.3197,
+    "n_comparables": 18
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 34,
+    "predicted_price_per_unit": 79189.6366,
+    "p25_price_per_unit": 58928.4347,
+    "p75_price_per_unit": 110525.3811,
+    "n_comparables": 16
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 35,
+    "predicted_price_per_unit": 78302.4134,
+    "p25_price_per_unit": 58268.2136,
+    "p75_price_per_unit": 109287.0793,
+    "n_comparables": 15
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 36,
+    "predicted_price_per_unit": 77449.711,
+    "p25_price_per_unit": 57633.6808,
+    "p75_price_per_unit": 108096.9581,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 37,
+    "predicted_price_per_unit": 76629.2818,
+    "p25_price_per_unit": 57023.1639,
+    "p75_price_per_unit": 106951.8808,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 38,
+    "predicted_price_per_unit": 75839.0803,
+    "p25_price_per_unit": 56435.1408,
+    "p75_price_per_unit": 105848.9926,
+    "n_comparables": 18
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 39,
+    "predicted_price_per_unit": 75077.2404,
+    "p25_price_per_unit": 55868.2228,
+    "p75_price_per_unit": 104785.6888,
+    "n_comparables": 20
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 40,
+    "predicted_price_per_unit": 74342.0552,
+    "p25_price_per_unit": 55321.1396,
+    "p75_price_per_unit": 103759.587,
+    "n_comparables": 17
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 41,
+    "predicted_price_per_unit": 73631.9599,
+    "p25_price_per_unit": 54792.727,
+    "p75_price_per_unit": 102768.5033,
+    "n_comparables": 21
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 42,
+    "predicted_price_per_unit": 72945.5168,
+    "p25_price_per_unit": 54281.915,
+    "p75_price_per_unit": 101810.4313,
+    "n_comparables": 22
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 43,
+    "predicted_price_per_unit": 72281.4027,
+    "p25_price_per_unit": 53787.719,
+    "p75_price_per_unit": 100883.5238,
+    "n_comparables": 23
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 44,
+    "predicted_price_per_unit": 71638.3967,
+    "p25_price_per_unit": 53309.2304,
+    "p75_price_per_unit": 99986.077,
+    "n_comparables": 22
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 45,
+    "predicted_price_per_unit": 71015.3706,
+    "p25_price_per_unit": 52845.6097,
+    "p75_price_per_unit": 99116.5163,
+    "n_comparables": 21
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 46,
+    "predicted_price_per_unit": 70411.2799,
+    "p25_price_per_unit": 52396.0797,
+    "p75_price_per_unit": 98273.3837,
+    "n_comparables": 24
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 47,
+    "predicted_price_per_unit": 69825.1557,
+    "p25_price_per_unit": 51959.9193,
+    "p75_price_per_unit": 97455.3272,
+    "n_comparables": 25
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 48,
+    "predicted_price_per_unit": 69256.0983,
+    "p25_price_per_unit": 51536.459,
+    "p75_price_per_unit": 96661.0908,
+    "n_comparables": 25
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 49,
+    "predicted_price_per_unit": 68703.2703,
+    "p25_price_per_unit": 51125.0758,
+    "p75_price_per_unit": 95889.506,
+    "n_comparables": 23
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 50,
+    "predicted_price_per_unit": 68165.8916,
+    "p25_price_per_unit": 50725.1891,
+    "p75_price_per_unit": 95139.4838,
+    "n_comparables": 23
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 51,
+    "predicted_price_per_unit": 67643.2342,
+    "p25_price_per_unit": 50336.2571,
+    "p75_price_per_unit": 94410.0082,
+    "n_comparables": 25
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 52,
+    "predicted_price_per_unit": 67134.6177,
+    "p25_price_per_unit": 49957.7736,
+    "p75_price_per_unit": 93700.1296,
+    "n_comparables": 25
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 53,
+    "predicted_price_per_unit": 66639.4058,
+    "p25_price_per_unit": 49589.2649,
+    "p75_price_per_unit": 93008.9597,
+    "n_comparables": 25
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 54,
+    "predicted_price_per_unit": 66157.0019,
+    "p25_price_per_unit": 49230.2874,
+    "p75_price_per_unit": 92335.6662,
+    "n_comparables": 27
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 55,
+    "predicted_price_per_unit": 65686.8467,
+    "p25_price_per_unit": 48880.4246,
+    "p75_price_per_unit": 91679.4682,
+    "n_comparables": 25
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 56,
+    "predicted_price_per_unit": 65228.4149,
+    "p25_price_per_unit": 48539.2856,
+    "p75_price_per_unit": 91039.6325,
+    "n_comparables": 28
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 57,
+    "predicted_price_per_unit": 64781.2124,
+    "p25_price_per_unit": 48206.5029,
+    "p75_price_per_unit": 90415.4698,
+    "n_comparables": 26
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 58,
+    "predicted_price_per_unit": 64344.7744,
+    "p25_price_per_unit": 47881.7305,
+    "p75_price_per_unit": 89806.331,
+    "n_comparables": 25
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 59,
+    "predicted_price_per_unit": 63918.6627,
+    "p25_price_per_unit": 47564.6423,
+    "p75_price_per_unit": 89211.6046,
+    "n_comparables": 24
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 60,
+    "predicted_price_per_unit": 63502.464,
+    "p25_price_per_unit": 47254.9309,
+    "p75_price_per_unit": 88630.7141,
+    "n_comparables": 24
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 61,
+    "predicted_price_per_unit": 63095.7883,
+    "p25_price_per_unit": 46952.3059,
+    "p75_price_per_unit": 88063.1147,
+    "n_comparables": 24
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 62,
+    "predicted_price_per_unit": 62698.2668,
+    "p25_price_per_unit": 46656.4929,
+    "p75_price_per_unit": 87508.2919,
+    "n_comparables": 23
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 63,
+    "predicted_price_per_unit": 62309.5507,
+    "p25_price_per_unit": 46367.2325,
+    "p75_price_per_unit": 86965.7589,
+    "n_comparables": 21
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 64,
+    "predicted_price_per_unit": 61929.3098,
+    "p25_price_per_unit": 46084.2788,
+    "p75_price_per_unit": 86435.0547,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 65,
+    "predicted_price_per_unit": 61557.2311,
+    "p25_price_per_unit": 45807.3989,
+    "p75_price_per_unit": 85915.7426,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 66,
+    "predicted_price_per_unit": 61193.0179,
+    "p25_price_per_unit": 45536.3721,
+    "p75_price_per_unit": 85407.4083,
+    "n_comparables": 19
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 67,
+    "predicted_price_per_unit": 60836.3883,
+    "p25_price_per_unit": 45270.9886,
+    "p75_price_per_unit": 84909.6586,
+    "n_comparables": 17
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 68,
+    "predicted_price_per_unit": 60487.0749,
+    "p25_price_per_unit": 45011.0494,
+    "p75_price_per_unit": 84422.1201,
+    "n_comparables": 17
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 69,
+    "predicted_price_per_unit": 60144.8232,
+    "p25_price_per_unit": 44756.3651,
+    "p75_price_per_unit": 83944.4376,
+    "n_comparables": 16
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 70,
+    "predicted_price_per_unit": 59809.3911,
+    "p25_price_per_unit": 44506.7556,
+    "p75_price_per_unit": 83476.2734,
+    "n_comparables": 16
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 71,
+    "predicted_price_per_unit": 59480.5483,
+    "p25_price_per_unit": 44262.0494,
+    "p75_price_per_unit": 83017.3057,
+    "n_comparables": 17
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 72,
+    "predicted_price_per_unit": 59158.0751,
+    "p25_price_per_unit": 44022.0832,
+    "p75_price_per_unit": 82567.2283,
+    "n_comparables": 15
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 73,
+    "predicted_price_per_unit": 58841.7624,
+    "p25_price_per_unit": 43786.7011,
+    "p75_price_per_unit": 82125.7489,
+    "n_comparables": 14
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 74,
+    "predicted_price_per_unit": 58531.4103,
+    "p25_price_per_unit": 43555.7547,
+    "p75_price_per_unit": 81692.5889,
+    "n_comparables": 14
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 75,
+    "predicted_price_per_unit": 58226.8282,
+    "p25_price_per_unit": 43329.102,
+    "p75_price_per_unit": 81267.4822,
+    "n_comparables": 14
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 76,
+    "predicted_price_per_unit": 57927.8341,
+    "p25_price_per_unit": 43106.6076,
+    "p75_price_per_unit": 80850.1746,
+    "n_comparables": 14
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 77,
+    "predicted_price_per_unit": 57634.254,
+    "p25_price_per_unit": 42888.1419,
+    "p75_price_per_unit": 80440.4233,
+    "n_comparables": 13
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 78,
+    "predicted_price_per_unit": 57345.9213,
+    "p25_price_per_unit": 42673.5811,
+    "p75_price_per_unit": 80037.9959,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 79,
+    "predicted_price_per_unit": 57062.6768,
+    "p25_price_per_unit": 42462.8066,
+    "p75_price_per_unit": 79642.6701,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 80,
+    "predicted_price_per_unit": 56784.368,
+    "p25_price_per_unit": 42255.7049,
+    "p75_price_per_unit": 79254.233,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 81,
+    "predicted_price_per_unit": 56510.8487,
+    "p25_price_per_unit": 42052.1674,
+    "p75_price_per_unit": 78872.4808,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 82,
+    "predicted_price_per_unit": 56241.9789,
+    "p25_price_per_unit": 41852.0898,
+    "p75_price_per_unit": 78497.2179,
+    "n_comparables": 11
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 83,
+    "predicted_price_per_unit": 55977.6244,
+    "p25_price_per_unit": 41655.3721,
+    "p75_price_per_unit": 78128.2569,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 84,
+    "predicted_price_per_unit": 55717.6562,
+    "p25_price_per_unit": 41461.9185,
+    "p75_price_per_unit": 77765.4179,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 85,
+    "predicted_price_per_unit": 55461.9506,
+    "p25_price_per_unit": 41271.6369,
+    "p75_price_per_unit": 77408.5283,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 86,
+    "predicted_price_per_unit": 55210.3888,
+    "p25_price_per_unit": 41084.4389,
+    "p75_price_per_unit": 77057.4222,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 87,
+    "predicted_price_per_unit": 54962.8566,
+    "p25_price_per_unit": 40900.2395,
+    "p75_price_per_unit": 76711.9403,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 88,
+    "predicted_price_per_unit": 54719.2443,
+    "p25_price_per_unit": 40718.9571,
+    "p75_price_per_unit": 76371.9294,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 89,
+    "predicted_price_per_unit": 54479.4463,
+    "p25_price_per_unit": 40540.513,
+    "p75_price_per_unit": 76037.2421,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 90,
+    "predicted_price_per_unit": 54243.361,
+    "p25_price_per_unit": 40364.8317,
+    "p75_price_per_unit": 75707.7366,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 91,
+    "predicted_price_per_unit": 54010.8906,
+    "p25_price_per_unit": 40191.8405,
+    "p75_price_per_unit": 75383.2765,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 92,
+    "predicted_price_per_unit": 53781.941,
+    "p25_price_per_unit": 40021.4691,
+    "p75_price_per_unit": 75063.7303,
+    "n_comparables": 7
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 93,
+    "predicted_price_per_unit": 53556.4213,
+    "p25_price_per_unit": 39853.6502,
+    "p75_price_per_unit": 74748.9714,
+    "n_comparables": 8
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 94,
+    "predicted_price_per_unit": 53334.2443,
+    "p25_price_per_unit": 39688.3187,
+    "p75_price_per_unit": 74438.8778,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 95,
+    "predicted_price_per_unit": 53115.3255,
+    "p25_price_per_unit": 39525.4117,
+    "p75_price_per_unit": 74133.3317,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 96,
+    "predicted_price_per_unit": 52899.5836,
+    "p25_price_per_unit": 39364.8689,
+    "p75_price_per_unit": 73832.2197,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 97,
+    "predicted_price_per_unit": 52686.9402,
+    "p25_price_per_unit": 39206.6317,
+    "p75_price_per_unit": 73535.4321,
+    "n_comparables": 10
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 98,
+    "predicted_price_per_unit": 52477.3195,
+    "p25_price_per_unit": 39050.6438,
+    "p75_price_per_unit": 73242.8634,
+    "n_comparables": 10
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 99,
+    "predicted_price_per_unit": 52270.6482,
+    "p25_price_per_unit": 38896.8508,
+    "p75_price_per_unit": 72954.4113,
+    "n_comparables": 9
+  },
+  {
+    "borough": "Bronx",
+    "residential_units": 100,
+    "predicted_price_per_unit": 52066.8558,
+    "p25_price_per_unit": 38745.2001,
+    "p75_price_per_unit": 72669.9772,
+    "n_comparables": 9
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 5,
+    "predicted_price_per_unit": 208759.5196,
+    "p25_price_per_unit": 160818.4942,
+    "p75_price_per_unit": 303768.2669,
+    "n_comparables": 299
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 6,
+    "predicted_price_per_unit": 194715.9628,
+    "p25_price_per_unit": 150000,
+    "p75_price_per_unit": 283333.3333,
+    "n_comparables": 395
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 7,
+    "predicted_price_per_unit": 183581.9589,
+    "p25_price_per_unit": 141422.8881,
+    "p75_price_per_unit": 267132.1221,
+    "n_comparables": 406
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 8,
+    "predicted_price_per_unit": 174453.1877,
+    "p25_price_per_unit": 134390.5131,
+    "p75_price_per_unit": 253848.747,
+    "n_comparables": 350
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 9,
+    "predicted_price_per_unit": 166778.5767,
+    "p25_price_per_unit": 128478.3545,
+    "p75_price_per_unit": 242681.3364,
+    "n_comparables": 176
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 10,
+    "predicted_price_per_unit": 160199.9398,
+    "p25_price_per_unit": 123410.4828,
+    "p75_price_per_unit": 233108.6897,
+    "n_comparables": 163
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 11,
+    "predicted_price_per_unit": 154472.6695,
+    "p25_price_per_unit": 118998.4636,
+    "p75_price_per_unit": 224774.8757,
+    "n_comparables": 177
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 12,
+    "predicted_price_per_unit": 149423.0567,
+    "p25_price_per_unit": 115108.4799,
+    "p75_price_per_unit": 217427.1288,
+    "n_comparables": 86
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 13,
+    "predicted_price_per_unit": 144923.7592,
+    "p25_price_per_unit": 111642.4333,
+    "p75_price_per_unit": 210880.1517,
+    "n_comparables": 104
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 14,
+    "predicted_price_per_unit": 140878.9349,
+    "p25_price_per_unit": 108526.4912,
+    "p75_price_per_unit": 204994.4834,
+    "n_comparables": 83
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 15,
+    "predicted_price_per_unit": 137214.8311,
+    "p25_price_per_unit": 105703.8384,
+    "p75_price_per_unit": 199662.8059,
+    "n_comparables": 75
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 16,
+    "predicted_price_per_unit": 133873.6084,
+    "p25_price_per_unit": 103129.9179,
+    "p75_price_per_unit": 194800.956,
+    "n_comparables": 105
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 17,
+    "predicted_price_per_unit": 130809.1571,
+    "p25_price_per_unit": 100769.2091,
+    "p75_price_per_unit": 190341.8393,
+    "n_comparables": 98
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 18,
+    "predicted_price_per_unit": 127984.1897,
+    "p25_price_per_unit": 98592.9873,
+    "p75_price_per_unit": 186231.1982,
+    "n_comparables": 100
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 19,
+    "predicted_price_per_unit": 125368.1701,
+    "p25_price_per_unit": 96577.7291,
+    "p75_price_per_unit": 182424.5995,
+    "n_comparables": 93
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 20,
+    "predicted_price_per_unit": 122935.8104,
+    "p25_price_per_unit": 94703.9539,
+    "p75_price_per_unit": 178885.2462,
+    "n_comparables": 105
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 21,
+    "predicted_price_per_unit": 120665.9583,
+    "p25_price_per_unit": 92955.3668,
+    "p75_price_per_unit": 175582.3595,
+    "n_comparables": 115
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 22,
+    "predicted_price_per_unit": 118540.7612,
+    "p25_price_per_unit": 91318.2151,
+    "p75_price_per_unit": 172489.9618,
+    "n_comparables": 91
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 23,
+    "predicted_price_per_unit": 116545.0286,
+    "p25_price_per_unit": 89780.7968,
+    "p75_price_per_unit": 169585.9494,
+    "n_comparables": 95
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 24,
+    "predicted_price_per_unit": 114665.7395,
+    "p25_price_per_unit": 88333.081,
+    "p75_price_per_unit": 166851.3752,
+    "n_comparables": 90
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 25,
+    "predicted_price_per_unit": 112891.657,
+    "p25_price_per_unit": 86966.4115,
+    "p75_price_per_unit": 164269.8884,
+    "n_comparables": 85
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 26,
+    "predicted_price_per_unit": 111213.0242,
+    "p25_price_per_unit": 85673.2719,
+    "p75_price_per_unit": 161827.2914,
+    "n_comparables": 96
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 27,
+    "predicted_price_per_unit": 109621.3207,
+    "p25_price_per_unit": 84447.0985,
+    "p75_price_per_unit": 159511.1861,
+    "n_comparables": 75
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 28,
+    "predicted_price_per_unit": 108109.067,
+    "p25_price_per_unit": 83282.1296,
+    "p75_price_per_unit": 157310.6892,
+    "n_comparables": 68
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 29,
+    "predicted_price_per_unit": 106669.6657,
+    "p25_price_per_unit": 82173.2826,
+    "p75_price_per_unit": 155216.2005,
+    "n_comparables": 68
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 30,
+    "predicted_price_per_unit": 105297.2709,
+    "p25_price_per_unit": 81116.0544,
+    "p75_price_per_unit": 153219.2139,
+    "n_comparables": 67
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 31,
+    "predicted_price_per_unit": 103986.6812,
+    "p25_price_per_unit": 80106.4379,
+    "p75_price_per_unit": 151312.1605,
+    "n_comparables": 76
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 32,
+    "predicted_price_per_unit": 102733.2504,
+    "p25_price_per_unit": 79140.8539,
+    "p75_price_per_unit": 149488.2795,
+    "n_comparables": 60
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 33,
+    "predicted_price_per_unit": 101532.8129,
+    "p25_price_per_unit": 78216.0934,
+    "p75_price_per_unit": 147741.5098,
+    "n_comparables": 58
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 34,
+    "predicted_price_per_unit": 100381.6216,
+    "p25_price_per_unit": 77329.2699,
+    "p75_price_per_unit": 146066.3986,
+    "n_comparables": 56
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 35,
+    "predicted_price_per_unit": 99276.2944,
+    "p25_price_per_unit": 76477.7779,
+    "p75_price_per_unit": 144458.025,
+    "n_comparables": 54
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 36,
+    "predicted_price_per_unit": 98213.7702,
+    "p25_price_per_unit": 75659.2593,
+    "p75_price_per_unit": 142911.9343,
+    "n_comparables": 64
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 37,
+    "predicted_price_per_unit": 97191.2697,
+    "p25_price_per_unit": 74871.5732,
+    "p75_price_per_unit": 141424.0826,
+    "n_comparables": 62
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 38,
+    "predicted_price_per_unit": 96206.2633,
+    "p25_price_per_unit": 74112.7706,
+    "p75_price_per_unit": 139990.789,
+    "n_comparables": 60
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 39,
+    "predicted_price_per_unit": 95256.4424,
+    "p25_price_per_unit": 73381.0734,
+    "p75_price_per_unit": 138608.6941,
+    "n_comparables": 61
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 40,
+    "predicted_price_per_unit": 94339.6951,
+    "p25_price_per_unit": 72674.8545,
+    "p75_price_per_unit": 137274.7251,
+    "n_comparables": 58
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 41,
+    "predicted_price_per_unit": 93454.0852,
+    "p25_price_per_unit": 71992.6224,
+    "p75_price_per_unit": 135986.0645,
+    "n_comparables": 64
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 42,
+    "predicted_price_per_unit": 92597.8336,
+    "p25_price_per_unit": 71333.0065,
+    "p75_price_per_unit": 134740.1233,
+    "n_comparables": 64
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 43,
+    "predicted_price_per_unit": 91769.3019,
+    "p25_price_per_unit": 70694.7447,
+    "p75_price_per_unit": 133534.5178,
+    "n_comparables": 65
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 44,
+    "predicted_price_per_unit": 90966.9788,
+    "p25_price_per_unit": 70076.6728,
+    "p75_price_per_unit": 132367.0487,
+    "n_comparables": 65
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 45,
+    "predicted_price_per_unit": 90189.4674,
+    "p25_price_per_unit": 69477.7147,
+    "p75_price_per_unit": 131235.6832,
+    "n_comparables": 66
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 46,
+    "predicted_price_per_unit": 89435.4739,
+    "p25_price_per_unit": 68896.8736,
+    "p75_price_per_unit": 130138.539,
+    "n_comparables": 74
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 47,
+    "predicted_price_per_unit": 88703.7985,
+    "p25_price_per_unit": 68333.2254,
+    "p75_price_per_unit": 129073.8702,
+    "n_comparables": 72
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 48,
+    "predicted_price_per_unit": 87993.3265,
+    "p25_price_per_unit": 67785.9112,
+    "p75_price_per_unit": 128040.0545,
+    "n_comparables": 73
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 49,
+    "predicted_price_per_unit": 87303.0204,
+    "p25_price_per_unit": 67254.132,
+    "p75_price_per_unit": 127035.5826,
+    "n_comparables": 71
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 50,
+    "predicted_price_per_unit": 86631.9136,
+    "p25_price_per_unit": 66737.1429,
+    "p75_price_per_unit": 126059.0477,
+    "n_comparables": 73
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 51,
+    "predicted_price_per_unit": 85979.1038,
+    "p25_price_per_unit": 66234.249,
+    "p75_price_per_unit": 125109.137,
+    "n_comparables": 79
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 52,
+    "predicted_price_per_unit": 85343.7478,
+    "p25_price_per_unit": 65744.8007,
+    "p75_price_per_unit": 124184.6235,
+    "n_comparables": 75
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 53,
+    "predicted_price_per_unit": 84725.0565,
+    "p25_price_per_unit": 65268.1901,
+    "p75_price_per_unit": 123284.359,
+    "n_comparables": 74
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 54,
+    "predicted_price_per_unit": 84122.2906,
+    "p25_price_per_unit": 64803.8476,
+    "p75_price_per_unit": 122407.2678,
+    "n_comparables": 73
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 55,
+    "predicted_price_per_unit": 83534.7564,
+    "p25_price_per_unit": 64351.239,
+    "p75_price_per_unit": 121552.3403,
+    "n_comparables": 68
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 56,
+    "predicted_price_per_unit": 82961.8024,
+    "p25_price_per_unit": 63909.8623,
+    "p75_price_per_unit": 120718.6287,
+    "n_comparables": 72
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 57,
+    "predicted_price_per_unit": 82402.816,
+    "p25_price_per_unit": 63479.2455,
+    "p75_price_per_unit": 119905.2415,
+    "n_comparables": 69
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 58,
+    "predicted_price_per_unit": 81857.2205,
+    "p25_price_per_unit": 63058.9444,
+    "p75_price_per_unit": 119111.3394,
+    "n_comparables": 68
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 59,
+    "predicted_price_per_unit": 81324.4722,
+    "p25_price_per_unit": 62648.5402,
+    "p75_price_per_unit": 118336.1316,
+    "n_comparables": 67
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 60,
+    "predicted_price_per_unit": 80804.0586,
+    "p25_price_per_unit": 62247.6381,
+    "p75_price_per_unit": 117578.872,
+    "n_comparables": 68
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 61,
+    "predicted_price_per_unit": 80295.4956,
+    "p25_price_per_unit": 61855.8651,
+    "p75_price_per_unit": 116838.8563,
+    "n_comparables": 70
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 62,
+    "predicted_price_per_unit": 79798.3254,
+    "p25_price_per_unit": 61472.8687,
+    "p75_price_per_unit": 116115.4186,
+    "n_comparables": 65
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 63,
+    "predicted_price_per_unit": 79312.1153,
+    "p25_price_per_unit": 61098.3153,
+    "p75_price_per_unit": 115407.9289,
+    "n_comparables": 62
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 64,
+    "predicted_price_per_unit": 78836.4553,
+    "p25_price_per_unit": 60731.8893,
+    "p75_price_per_unit": 114715.7908,
+    "n_comparables": 61
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 65,
+    "predicted_price_per_unit": 78370.9569,
+    "p25_price_per_unit": 60373.2913,
+    "p75_price_per_unit": 114038.4391,
+    "n_comparables": 60
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 66,
+    "predicted_price_per_unit": 77915.2517,
+    "p25_price_per_unit": 60022.2375,
+    "p75_price_per_unit": 113375.3374,
+    "n_comparables": 60
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 67,
+    "predicted_price_per_unit": 77468.9899,
+    "p25_price_per_unit": 59678.4584,
+    "p75_price_per_unit": 112725.977,
+    "n_comparables": 57
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 68,
+    "predicted_price_per_unit": 77031.8391,
+    "p25_price_per_unit": 59341.698,
+    "p75_price_per_unit": 112089.8741,
+    "n_comparables": 56
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 69,
+    "predicted_price_per_unit": 76603.4835,
+    "p25_price_per_unit": 59011.713,
+    "p75_price_per_unit": 111466.5691,
+    "n_comparables": 51
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 70,
+    "predicted_price_per_unit": 76183.6223,
+    "p25_price_per_unit": 58688.2718,
+    "p75_price_per_unit": 110855.6245,
+    "n_comparables": 54
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 71,
+    "predicted_price_per_unit": 75771.9694,
+    "p25_price_per_unit": 58371.1538,
+    "p75_price_per_unit": 110256.6238,
+    "n_comparables": 56
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 72,
+    "predicted_price_per_unit": 75368.252,
+    "p25_price_per_unit": 58060.1489,
+    "p75_price_per_unit": 109669.1701,
+    "n_comparables": 51
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 73,
+    "predicted_price_per_unit": 74972.21,
+    "p25_price_per_unit": 57755.0569,
+    "p75_price_per_unit": 109092.8852,
+    "n_comparables": 50
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 74,
+    "predicted_price_per_unit": 74583.5955,
+    "p25_price_per_unit": 57455.6865,
+    "p75_price_per_unit": 108527.4079,
+    "n_comparables": 47
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 75,
+    "predicted_price_per_unit": 74202.1714,
+    "p25_price_per_unit": 57161.8554,
+    "p75_price_per_unit": 107972.3935,
+    "n_comparables": 46
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 76,
+    "predicted_price_per_unit": 73827.7115,
+    "p25_price_per_unit": 56873.3891,
+    "p75_price_per_unit": 107427.5128,
+    "n_comparables": 47
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 77,
+    "predicted_price_per_unit": 73459.9995,
+    "p25_price_per_unit": 56590.1212,
+    "p75_price_per_unit": 106892.4511,
+    "n_comparables": 44
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 78,
+    "predicted_price_per_unit": 73098.8286,
+    "p25_price_per_unit": 56311.8921,
+    "p75_price_per_unit": 106366.9072,
+    "n_comparables": 42
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 79,
+    "predicted_price_per_unit": 72744.0006,
+    "p25_price_per_unit": 56038.5493,
+    "p75_price_per_unit": 105850.5932,
+    "n_comparables": 38
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 80,
+    "predicted_price_per_unit": 72395.326,
+    "p25_price_per_unit": 55769.9469,
+    "p75_price_per_unit": 105343.233,
+    "n_comparables": 37
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 81,
+    "predicted_price_per_unit": 72052.6232,
+    "p25_price_per_unit": 55505.9448,
+    "p75_price_per_unit": 104844.5623,
+    "n_comparables": 37
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 82,
+    "predicted_price_per_unit": 71715.718,
+    "p25_price_per_unit": 55246.4089,
+    "p75_price_per_unit": 104354.3278,
+    "n_comparables": 37
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 83,
+    "predicted_price_per_unit": 71384.4434,
+    "p25_price_per_unit": 54991.2105,
+    "p75_price_per_unit": 103872.2865,
+    "n_comparables": 35
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 84,
+    "predicted_price_per_unit": 71058.6391,
+    "p25_price_per_unit": 54740.2263,
+    "p75_price_per_unit": 103398.2052,
+    "n_comparables": 33
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 85,
+    "predicted_price_per_unit": 70738.1514,
+    "p25_price_per_unit": 54493.3376,
+    "p75_price_per_unit": 102931.86,
+    "n_comparables": 32
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 86,
+    "predicted_price_per_unit": 70422.8323,
+    "p25_price_per_unit": 54250.4307,
+    "p75_price_per_unit": 102473.0358,
+    "n_comparables": 33
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 87,
+    "predicted_price_per_unit": 70112.5399,
+    "p25_price_per_unit": 54011.3961,
+    "p75_price_per_unit": 102021.5259,
+    "n_comparables": 30
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 88,
+    "predicted_price_per_unit": 69807.1377,
+    "p25_price_per_unit": 53776.1286,
+    "p75_price_per_unit": 101577.1318,
+    "n_comparables": 31
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 89,
+    "predicted_price_per_unit": 69506.4943,
+    "p25_price_per_unit": 53544.5271,
+    "p75_price_per_unit": 101139.6623,
+    "n_comparables": 29
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 90,
+    "predicted_price_per_unit": 69210.4833,
+    "p25_price_per_unit": 53316.4942,
+    "p75_price_per_unit": 100708.9334,
+    "n_comparables": 27
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 91,
+    "predicted_price_per_unit": 68918.983,
+    "p25_price_per_unit": 53091.9361,
+    "p75_price_per_unit": 100284.7682,
+    "n_comparables": 28
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 92,
+    "predicted_price_per_unit": 68631.8763,
+    "p25_price_per_unit": 52870.7626,
+    "p75_price_per_unit": 99866.9961,
+    "n_comparables": 25
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 93,
+    "predicted_price_per_unit": 68349.0503,
+    "p25_price_per_unit": 52652.8868,
+    "p75_price_per_unit": 99455.4528,
+    "n_comparables": 24
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 94,
+    "predicted_price_per_unit": 68070.3961,
+    "p25_price_per_unit": 52438.2247,
+    "p75_price_per_unit": 99049.98,
+    "n_comparables": 25
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 95,
+    "predicted_price_per_unit": 67795.8087,
+    "p25_price_per_unit": 52226.6955,
+    "p75_price_per_unit": 98650.4249,
+    "n_comparables": 24
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 96,
+    "predicted_price_per_unit": 67525.187,
+    "p25_price_per_unit": 52018.2213,
+    "p75_price_per_unit": 98256.6403,
+    "n_comparables": 24
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 97,
+    "predicted_price_per_unit": 67258.4333,
+    "p25_price_per_unit": 51812.7268,
+    "p75_price_per_unit": 97868.484,
+    "n_comparables": 24
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 98,
+    "predicted_price_per_unit": 66995.4531,
+    "p25_price_per_unit": 51610.1393,
+    "p75_price_per_unit": 97485.8187,
+    "n_comparables": 23
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 99,
+    "predicted_price_per_unit": 66736.1556,
+    "p25_price_per_unit": 51410.3887,
+    "p75_price_per_unit": 97108.512,
+    "n_comparables": 22
+  },
+  {
+    "borough": "All Boroughs",
+    "residential_units": 100,
+    "predicted_price_per_unit": 66480.4526,
+    "p25_price_per_unit": 51213.4072,
+    "p75_price_per_unit": 96736.4358,
+    "n_comparables": 22
+  }
+]

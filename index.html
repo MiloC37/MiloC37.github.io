@@ -33,9 +33,15 @@
         </label>
 
         <div class="two-column">
-          <label>Number of buyers
-            <input id="buyers" type="number" min="1" max="200" value="30">
-          </label>
+          <div>
+            <label>Number of buyers
+              <input id="buyers" type="number" min="1" max="200" value="30">
+            </label>
+            <label class="lock-buyers-control">
+              <input id="lock-buyers-to-units" type="checkbox">
+              <span>Lock buyers to residential units</span>
+            </label>
+          </div>
           <label>Down payment %
             <input id="down-payment" type="number" min="0" max="100" value="25">
           </label>
@@ -71,9 +77,9 @@
         </div>
 
         <div class="range-card">
-          <p class="result-label">Typical observed range</p>
+          <p class="result-label">Estimated typical range</p>
           <p id="price-range" class="range-value">—</p>
-          <p class="microcopy">25th–75th percentile price per residential unit</p>
+          <p class="microcopy">Model prediction adjusted by the 25th–75th percentile residual range</p>
         </div>
 
         <div class="metric-grid">
@@ -94,7 +100,7 @@
 
     <section class="methodology">
       <h2>How the estimate works</h2>
-      <p>The requested unit count is multiplied by the median price per residential unit for validated historical sales in the selected borough and building-size group. The range uses the 25th and 75th percentiles.</p>
+      <p>The requested unit count is multiplied by a smooth predicted price per residential unit estimated from validated historical sales. The model relates price per unit to building size on a log-log scale, separately by borough. The displayed range follows the 25th–75th percentile model residuals.</p>
       <p>Financing figures include principal and interest only, not taxes, insurance, repairs, utilities, reserves, closing costs, or renovations.</p>
     </section>
   </main>
