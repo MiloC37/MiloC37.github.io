@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NYC Multifamily Building Cost Estimator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="page-shell">
+    <header class="hero">
+      <p class="eyebrow">NYC multifamily sales estimator</p>
+      <h1>What might a building cost?</h1>
+      <p class="hero-copy">Estimate purchase price, down payment, and financing costs using validated historical whole-building sales.</p>
+    </header>
+
+    <section class="estimator-grid">
+      <form id="estimator-form" class="panel controls-panel">
+        <h2>Building assumptions</h2>
+
+        <label>Borough
+          <select id="borough">
+            <option>Bronx</option>
+            <option selected>Brooklyn</option>
+            <option>Manhattan</option>
+            <option>Queens</option>
+            <option>All Boroughs</option>
+          </select>
+        </label>
+
+        <label>Residential units
+          <div class="range-row"><input id="units" type="range" min="5" max="100" value="20"><output id="units-output">20</output></div>
+        </label>
+
+        <div class="two-column">
+          <label>Number of buyers
+            <input id="buyers" type="number" min="1" max="200" value="30">
+          </label>
+          <label>Down payment %
+            <input id="down-payment" type="number" min="0" max="100" value="25">
+          </label>
+        </div>
+
+        <details>
+          <summary>Financing assumptions</summary>
+          <div class="two-column">
+            <label>Interest rate %
+              <input id="interest-rate" type="number" min="0" max="25" step="0.1" value="6.5">
+            </label>
+            <label>Loan term
+              <select id="loan-term">
+                <option value="15">15 years</option>
+                <option value="20">20 years</option>
+                <option value="25">25 years</option>
+                <option value="30" selected>30 years</option>
+              </select>
+            </label>
+          </div>
+        </details>
+
+        <p id="form-message" class="form-message" aria-live="polite"></p>
+      </form>
+
+      <section class="panel results-panel" aria-live="polite">
+        <div class="results-topline">
+          <div>
+            <p class="result-label">Estimated purchase price</p>
+            <p id="estimated-price" class="hero-result">—</p>
+          </div>
+          <span id="unit-group-badge" class="badge">—</span>
+        </div>
+
+        <div class="range-card">
+          <p class="result-label">Typical observed range</p>
+          <p id="price-range" class="range-value">—</p>
+          <p class="microcopy">25th–75th percentile price per residential unit</p>
+        </div>
+
+        <div class="metric-grid">
+          <article><p class="result-label">Price / unit</p><p id="price-per-unit" class="metric-value">—</p></article>
+          <article><p class="result-label">Down payment</p><p id="down-payment-total" class="metric-value">—</p></article>
+          <article><p class="result-label">Down payment / buyer</p><p id="down-payment-person" class="metric-value">—</p></article>
+          <article><p class="result-label">Mortgage principal</p><p id="mortgage-principal" class="metric-value">—</p></article>
+          <article><p class="result-label">Monthly P&amp;I</p><p id="monthly-mortgage" class="metric-value">—</p></article>
+          <article><p class="result-label">Monthly P&amp;I / buyer</p><p id="monthly-per-person" class="metric-value">—</p></article>
+        </div>
+
+        <div class="evidence-card">
+          <div><p class="result-label">Comparable sales</p><p id="comparable-sales" class="evidence-value">—</p></div>
+          <p id="comparison-note">Loading market data…</p>
+        </div>
+      </section>
+    </section>
+
+    <section class="methodology">
+      <h2>How the estimate works</h2>
+      <p>The requested unit count is multiplied by the median price per residential unit for validated historical sales in the selected borough and building-size group. The range uses the 25th and 75th percentiles.</p>
+      <p>Financing figures include principal and interest only, not taxes, insurance, repairs, utilities, reserves, closing costs, or renovations.</p>
+    </section>
+  </main>
+  <script src="script.js" defer></script>
+</body>
+</html>

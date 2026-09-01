@@ -1,0 +1,16 @@
+const DATA_URL="data/estimator_data.json";const MIN_COMPARABLES=5;
+const $=s=>document.querySelector(s);
+const borough=$("#borough"),units=$("#units"),unitsOut=$("#units-output"),buyers=$("#buyers"),down=$("#down-payment"),rate=$("#interest-rate"),term=$("#loan-term"),msg=$("#form-message");
+let data=[];
+const money=new Intl.NumberFormat("en-US",{style:"currency",currency:"USD",maximumFractionDigits:0});
+const compact=new Intl.NumberFormat("en-US",{style:"currency",currency:"USD",notation:"compact",maximumFractionDigits:2});
+function group(n){if(n<=9)return"5-9";if(n<=14)return"10-14";if(n<=19)return"15-19";if(n<=29)return"20-29";if(n<=49)return"30-49";return"50+"}
+function monthlyPI(p,r,y){if(p<=0)return 0;const m=y*12,i=r/100/12;if(i===0)return p/m;const f=(1+i)**m;return p*(i*f)/(f-1)}
+function findRow(b,g){const exact=data.find(x=>x.borough===b&&x.unit_group===g);if(exact&&+exact.n_sales>=MIN_COMPARABLES)return{row:exact,fallback:false};const all=data.find(x=>x.borough==="All Boroughs"&&x.unit_group===g);return{row:all||exact||null,fallback:!!all,exact}}
+function set(id,v){$(id).textContent=v}
+function render(){const n=Math.max(5,Math.min(100,Math.round(+units.value||20)));units.value=n;unitsOut.textContent=n;const b=Math.max(1,Math.min(200,Math.round(+buyers.value||30)));buyers.value=b;const dp=Math.max(0,Math.min(100,+down.value||0));const r=Math.max(0,Math.min(25,+rate.value||0));const y=Math.max(1,+term.value||30);if(!data.length)return;const g=group(n),c=findRow(borough.value,g);if(!c.row)return;const row=c.row,ppu=+row.median_price_per_unit,p25=+row.p25_price_per_unit,p75=+row.p75_price_per_unit,price=n*ppu,low=n*p25,high=n*p75,downTotal=price*dp/100,principal=price-downTotal,monthly=monthlyPI(principal,r,y);
+set("#estimated-price",compact.format(price));set("#price-range",`${compact.format(low)} – ${compact.format(high)}`);set("#price-per-unit",money.format(ppu));set("#down-payment-total",compact.format(downTotal));set("#down-payment-person",money.format(downTotal/b));set("#mortgage-principal",compact.format(principal));set("#monthly-mortgage",money.format(monthly));set("#monthly-per-person",money.format(monthly/b));set("#comparable-sales",Number(row.n_sales).toLocaleString());set("#unit-group-badge",`${row.borough} · ${g} units`);
+if(c.fallback){msg.textContent=c.exact?`${borough.value} has only ${c.exact.n_sales} comparable sales in this size group, so all-borough data are used.`:`No ${borough.value} group was available, so all-borough data are used.`;set("#comparison-note",`Estimate uses validated sales in the ${g}-unit group across all included boroughs.`)}else{msg.textContent="";set("#comparison-note",`Estimate uses validated ${row.borough} sales in the ${g}-unit building-size group.`)}}
+document.querySelector("#estimator-form").addEventListener("input",render);
+document.querySelector("#estimator-form").addEventListener("change",render);
+fetch(DATA_URL,{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}).then(j=>{data=j;render()}).catch(e=>{console.error(e);msg.textContent="Could not load data/estimator_data.json. Confirm the file exists and view the site through GitHub Pages or a local web server."});
